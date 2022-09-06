@@ -3,7 +3,7 @@ Vegetable Soup Recipe:
 Ingredients:
  - five slices of smoked paprika
  - five tomatoes
- - two onions
+ - three onions
  - bouillon
  - lentils
 
